@@ -1,0 +1,55 @@
+img {
+    margin: auto;
+    display: block;
+}
+
+.image-container {
+    width: 100%;
+}
+
+
+.mid-container {
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    width: 90%;
+    margin:auto;
+    margin-bottom: 2px;
+}
+
+.b1 {
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 33%;
+    height: 76px;
+    margin-right: 2px;
+
+}
+
+.b2 {
+    background-color: rgb(112, 204, 194);
+    float: left;
+    width: 33%;
+    height: 76px;
+    margin-right: 2px;
+}
+
+.b3 {
+    background-color: rgb(98, 179, 170);
+    float: left;
+    width: 33%;
+    height: 76px;
+}
+
+.bottom-container {
+    text-align: center;
+    width: 90%;
+    margin:auto;
+    margin-bottom: 10px;
+
+}
+footer{
+    font-size:small ;
+    text-align: center;
+    clear: both;
+   
+}
